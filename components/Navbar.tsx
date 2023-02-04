@@ -2,7 +2,7 @@ import LemonIcon from "https://deno.land/x/tabler_icons_tsx@0.0.1/tsx/lemon-2.ts
 
 export default function Header() {
   const menus = [
-    { name: "common.languages.en", href: "/" },
+    { name: "common.languages.en", href: "/en" },
     { name: "common.languages.es", href: "/es" },
     { name: "common.languages.ar", href: "/ar" },
   ];

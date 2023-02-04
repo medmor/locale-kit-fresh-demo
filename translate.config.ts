@@ -23,10 +23,10 @@ export default {
           es: "Español",
           ar: "árabe",
         },
-        homePage: {
-          title:
-            "Esta es una demostración simple para el complemento del locale-kit",
-        },
+      },
+      homePage: {
+        title:
+          "Esta es una demostración simple para el complemento del locale-kit",
       },
     },
     ar: {
@@ -36,9 +36,9 @@ export default {
           es: "الاسبانية",
           ar: "العربية",
         },
-        homePage: {
-          title: "هذا مثال تطبيقي بسيط للبلاغين لوكال-كيت",
-        },
+      },
+      homePage: {
+        title: "هذا مثال تطبيقي بسيط للبلاغين لوكال-كيت",
       },
     },
   },
